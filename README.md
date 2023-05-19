@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1380&t=st=1684524038~exp=1684524638~hmac=9e4d92e0ef45396b21ac9d3743bce5091178aaef0bb8d5738c1d8e980ab6fa09)
+![logo](https://github.com/Hash-Perera/Hash-Perera/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Hashan Perera</h1>
 <h3 align="center">Software Engineer Undergraduate !</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
